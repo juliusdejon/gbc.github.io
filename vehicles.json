@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "name": "Tesla Model S Long Range",
+      "photo": "https://example.com/tesla_model_s.jpg",
+      "seating_capacity": "5 seats",
+      "type": "electric",
+      "color": "various colors"
+    },
+    {
+      "name": "Nissan Leaf SV",
+      "photo": "https://example.com/nissan_leaf.jpg",
+      "seating_capacity": "5 seats",
+      "type": "electric",
+      "color": "various colors"
+    },
+    {
+      "name": "Chevrolet Bolt EV LT",
+      "photo": "https://example.com/chevrolet_bolt.jpg",
+      "seating_capacity": "5 seats",
+      "type": "electric",
+      "color": "various colors"
+    },
+    {
+      "name": "BMW i3",
+      "photo": "https://example.com/bmw_i3.jpg",
+      "seating_capacity": "4 seats",
+      "type": "electric",
+      "color": "various colors"
+    },
+    {
+      "name": "Audi e-tron Premium Plus",
+      "photo": "https://example.com/audi_etron.jpg",
+      "seating_capacity": "5 seats",
+      "type": "electric",
+      "color": "various colors"
+    }
+  ]
+}
